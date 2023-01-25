@@ -1,7 +1,10 @@
 {
-    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Enabled": false,
     "python.linting.enabled": true,
-    "editor.rulers": [79]
+    "editor.rulers": [
+        79
+    ],
+    "python.linting.mypyEnabled": true
 
 
 }
